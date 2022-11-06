@@ -11,7 +11,7 @@ package com.mycompany.tuhoc;
 public class MainForm extends javax.swing.JFrame {
 
     /**
-     * Creates new form MainForm
+     * Creates new form MainForm1
      */
     public MainForm() {
         initComponents();
